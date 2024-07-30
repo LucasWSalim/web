@@ -13,3 +13,11 @@ body{
 a{
     color: black;
 }
+@media(orientation:landscape) and (min-width: 400px){
+    body{
+    font-size: 160rem;
+    width: 0.01rem;
+    margin-left: 200px;
+    }
+
+}
