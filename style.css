@@ -1,0 +1,15 @@
+img{
+    height: 400px;
+    width: 600px;
+}
+body{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    background: linear-gradient(to top left,white, cyan);
+    font-size: 20px;
+    height: 200vh;
+}
+a{
+    color: black;
+}
